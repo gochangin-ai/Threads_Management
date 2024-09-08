@@ -1,8 +1,6 @@
 import streamlit as st
 import requests
 import json
-from datetime import datetime
-
 
 class ThreadsFollowManager:
     def __init__(self, access_token):
